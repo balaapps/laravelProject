@@ -11,7 +11,7 @@ if(count($_POST)>0) {
 ?>
 <html>
 <head>
-<title>Add New User</title>
+<title>bala</title>
 <link rel="stylesheet" type="text/css" href="styles.css" />
 </head>
 <body>
